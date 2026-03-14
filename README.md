@@ -5,6 +5,9 @@
 ### Linguagens:
 
 > Python
+> 
 > Java
+> 
 > SQL
+> 
 > JavaScript
