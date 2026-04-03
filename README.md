@@ -1,6 +1,8 @@
 # Estudo de Linguagens de Programação
 
-## Exercícios Realizados durante aprendizado:
+## Exercicio Realizados durante aprendizado:
+[Lista de Exercicios de Python](https://exercicios.dunossauro.com/01_estrutura_sequencial/)
+
 
 ### Linguagens:
 
@@ -11,3 +13,4 @@
 > SQL
 > 
 > JavaScript
+
